@@ -1,0 +1,19 @@
+{
+  "name": "hola-mundo-electronjs",
+  "version": "0.0.1",
+  "description": "Una aplicación de escritorio desarrollada con ElectronJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron index.js"
+  },
+  "keywords": [
+    "Electronjs",
+    "Nodejs",
+    "JavaScript"
+  ],
+  "author": "Yovanny Diaz <thebigyovadiaz@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  }
+}
